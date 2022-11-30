@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mah-moh&langs_count=8&layout=compact)](https://github.com/mah-moh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mah-moh&langs_count=8&layout=compact&theme=transparent)](https://github.com/mah-moh)
