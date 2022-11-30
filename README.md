@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 ```text
 🌱 I’m currently learning ...
 ```
-Toolbox:
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width='50' height='50' /> <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='50' height='50' /> <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' width='50' height='50' /> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50' height='50' /> <img src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg' width='50' height='50' /> <img src='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg' width='50' height='50' />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mah-moh)](https://github.com/mah-moh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mah-moh&langs_count=8&layout=compact)](https://github.com/mah-moh)
