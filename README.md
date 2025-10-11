@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🛠 Skills
+- Languages: C#, SQL
+- Frameworks: .NET 8, ASP.NET Core
+- Databases: MongoDB, SQL Server
+- Tools: Docker, Git, CI/CD (GitHub Actions, Jenkins)
+- Cloud: GCP, Azure
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mah-moh&langs_count=5&layout=compact&theme=transparent&hide=html,css)](https://github.com/mah-moh)
